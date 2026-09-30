@@ -6,9 +6,7 @@
   <img alt="VMware" src="https://img.shields.io/badge/VMware-Workstation-607078">
   <img alt="INF.02" src="https://img.shields.io/badge/exam-INF.02-orange">
   <img alt="Topics" src="https://img.shields.io/badge/topics-VLAN_%7C_DHCP_%7C_NAT_%7C_Firewall-blue">
-  <a alt="Latest release" href="https://github.com/JakubGawron/mikrotik-lab-inf.02/releases/latest">
-    <img src="https://img.shields.io/github/v/release/JakubGawron/mikrotik-lab-inf.02">
-  </a>
+  <a href="https://github.com/JakubGawron/mikrotik-lab-inf.02/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/JakubGawron/mikrotik-lab-inf.02"></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-cross--platform-lightgrey">
   <img alt="Status" src="https://img.shields.io/badge/status-stable-brightgreen">
   <img alt="License" src="https://img.shields.io/github/license/JakubGawron/mikrotik-lab-inf.02">
