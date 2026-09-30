@@ -6,12 +6,12 @@
   <img alt="VMware" src="https://img.shields.io/badge/VMware-Workstation-607078">
   <img alt="INF.02" src="https://img.shields.io/badge/exam-INF.02-orange">
   <img alt="Topics" src="https://img.shields.io/badge/topics-VLAN_%7C_DHCP_%7C_NAT_%7C_Firewall-blue">
-  <a href="https://github.com/JakubGawron/mikrotik-lab-inf.02/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/JakubGawron/mikrotik-lab-inf.02"></a>
+  <a href="https://github.com/JakubGawron/vmware-gns3-mikrotik-lab-inf.02/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/JakubGawron/vmware-gns3-mikrotik-lab-inf.02"></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-cross--platform-lightgrey">
   <img alt="Status" src="https://img.shields.io/badge/status-stable-brightgreen">
-  <img alt="License" src="https://img.shields.io/github/license/JakubGawron/mikrotik-lab-inf.02">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JakubGawron/mikrotik-lab-inf.02">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/JakubGawron/mikrotik-lab-inf.02">
+  <img alt="License" src="https://img.shields.io/github/license/JakubGawron/vmware-gns3-mikrotik-lab-inf.02">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JakubGawron/vmware-gns3-mikrotik-lab-inf.02">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/JakubGawron/vmware-gns3-mikrotik-lab-inf.02">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ MikroTik CHR routuje między czterema VLAN-ami przez pojedyncze łącze tagowane
 
 ### 1. Pobieranie
 
-Pobierz najnowsze pliki laboratorium z [**Releases**](https://github.com/JakubGawron/mikrotik-lab-inf.02/releases/latest).
+Pobierz najnowsze pliki laboratorium z [**Releases**](https://github.com/JakubGawron/vmware-gns3-mikrotik-lab-inf.02/releases/latest).
 
 ### 2. VMware
 
@@ -202,5 +202,5 @@ Wyniki zgadzają się z regułami firewalla opisanymi powyżej. Osiągalność j
 
 - **Autor:** Jakub Gawron
 - **GitHub:** [github.com/JakubGawron](https://github.com/JakubGawron)
-- **Repozytorium:** [github.com/JakubGawron/mikrotik-lab-inf.02](https://github.com/JakubGawron/mikrotik-lab-inf.02)
+- **Repozytorium:** [github.com/JakubGawron/vmware-gns3-mikrotik-lab-inf.02](https://github.com/JakubGawron/vmware-gns3-mikrotik-lab-inf.02)
 - **Kontakt:** [contact.jakub.gawron@gmail.com](mailto:contact.jakub.gawron@gmail.com)
