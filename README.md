@@ -198,6 +198,14 @@ Practice for VLANs, addressing, routing, DHCP, NAT, firewalling, troubleshooting
 
 ---
 
+## License
+
+This project is licensed under the [GPL-3.0 License](https://choosealicense.com/licenses/gpl-3.0/).
+
+See the [`LICENSE`](./LICENSE) file for details.
+
+---
+
 ## Author / Contact
 
 - **Author:** Jakub Gawron
