@@ -198,6 +198,14 @@ Wyniki zgadzają się z regułami firewalla opisanymi powyżej. Osiągalność j
 
 ---
 
+## Licencja
+
+Ten projekt jest objęty licencją [GPL-3.0 License](https://choosealicense.com/licenses/gpl-3.0/).
+
+Szczegóły znajdują się w pliku [`LICENSE`](./LICENSE).
+
+---
+
 ## Autor / Kontakt
 
 - **Autor:** Jakub Gawron
