@@ -173,11 +173,24 @@ Interfejsy VLAN są zagnieżdżone pod `ether2` w drzewie interfejsów. Kolumny 
 
 Pojedynczy `ping -c 1` do każdego celu. Zielony = odpowiedź, czerwony = timeout.
 
-| ADMIN                             | USER                                |
-| --------------------------------- | ----------------------------------- |
-| ![ADMIN](./images/VPCS/admin.png) | ![USER](./images/VPCS/user.png)     |
-| **GUEST**                         | **SERVER**                          |
-| ![GUEST](./images/VPCS/guest.png) | ![SERVER](./images/VPCS/server.png) |
+<table>
+  <tr>
+    <td align="center"><b>ADMIN</b></td>
+    <td align="center"><b>USER</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./images/VPCS/admin.png" alt="ADMIN"></td>
+    <td align="center"><img src="./images/VPCS/user.png" alt="USER"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>GUEST</b></td>
+    <td align="center"><b>SERVER</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./images/VPCS/guest.png" alt="GUEST"></td>
+    <td align="center"><img src="./images/VPCS/server.png" alt="SERVER"></td>
+  </tr>
+</table>
 
 ### Macierz wyników
 
